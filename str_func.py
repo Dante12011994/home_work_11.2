@@ -10,3 +10,9 @@ def capitalize(text):
     Каждое слово с заглавной буквы
     """
     return text.capitalize()
+
+def lower(text):
+    """
+    нижний регистр
+    """
+    return text.lower()
