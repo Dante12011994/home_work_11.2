@@ -2,7 +2,7 @@ def upper(text):
     """
     Весь текст в верхнем регистре
     """
-    return text.upper()
+    return 1+1
 
 
 def capitalize(text):
